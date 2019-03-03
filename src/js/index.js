@@ -6,5 +6,3 @@ var name = "vitali";
 console.log("my name: ", name);
 console.log("name has type: ", typeof name);
 
-//var name = "Grigorie"//
-//console.log('hello', name);
